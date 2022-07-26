@@ -5,5 +5,5 @@ Within the SERVER folder, run commands
 $npm start
 
 
-Withiin the CLIENT folder, run commands
+Within the CLIENT folder, run commands
 $npm start
